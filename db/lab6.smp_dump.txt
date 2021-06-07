@@ -1,0 +1,15 @@
+
+State Machine - |lab6_top|cpu:U|move_state
+Name move_state.011 move_state.010 move_state.001 move_state.000 
+move_state.000 0 0 0 0 
+move_state.001 0 0 1 1 
+move_state.010 0 1 0 1 
+move_state.011 1 0 0 1 
+
+State Machine - |lab6_top|cpu:U|ALU_state
+Name ALU_state.011 ALU_state.010 ALU_state.001 ALU_state.000 ALU_state.100 
+ALU_state.000 0 0 0 0 0 
+ALU_state.001 0 0 1 1 0 
+ALU_state.010 0 1 0 1 0 
+ALU_state.011 1 0 0 1 0 
+ALU_state.100 0 0 0 1 1 
