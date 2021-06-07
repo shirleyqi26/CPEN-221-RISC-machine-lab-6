@@ -1,0 +1,504 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab5
+vAdder1
+Z0 !s110 1603929745
+!i10b 1
+!s100 ?fcRQ60?<GYUzLBPM<C?21
+IHh1SgVgi;iKoViH^fX:OU2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6
+Z3 w1603849929
+Z4 8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu.v
+Z5 FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu.v
+L0 71
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1603929745.000000
+Z8 !s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@adder1
+vAddSub
+R0
+!i10b 1
+!s100 d_V@=aYL:c`z9cmXcHEb;1
+INaQfBcJ;m2h6WlX;9kV1<2
+R1
+R2
+R3
+R4
+R5
+L0 54
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+n@add@sub
+vALU
+Z12 !s110 1604033354
+!i10b 1
+!s100 EL^Jn4kLbJF78NARK@f=62
+I<@XRmjOQ5gIgjFQWm:e6c0
+R1
+R2
+Z13 w1604009687
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1604033354.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u
+vALU_tb
+Z15 !s110 1604033355
+!i10b 1
+!s100 OXUY5LIH[m_46G_1kA?lN2
+I9L?]Qk[b=Gng[PG;Y88<M3
+R1
+R2
+R13
+8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu_tb.v
+FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z16 !s108 1604033355.000000
+!s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/alu_tb.v|
+!i113 1
+R10
+R11
+n@a@l@u_tb
+vcpu
+R12
+!i10b 1
+!s100 d4kINJ0lnZ<@>f=UOH<W40
+IJgA^kPNUOU>UmAjUZIc0Z3
+R1
+R2
+Z17 w1604017437
+Z18 8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu.v
+Z19 FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+Z20 !s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu.v|
+!i113 1
+R10
+R11
+vcpu_tb
+R15
+!i10b 1
+!s100 ik[@@8]jb3]c1T62KZ@Q=1
+IXbc?fgnMa0oRO:2>mk4Rg0
+R1
+R2
+w1604020430
+8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu_tb.v
+FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/cpu_tb.v|
+!i113 1
+R10
+R11
+vdatapath
+R12
+!i10b 1
+!s100 G=[33QAOiA`CnWY[0LmYS1
+I_L1JLP2nL:<VSVZ1m2WWT1
+R1
+R2
+Z22 w1603930247
+Z23 8C:\Users\Shirley Qi\Desktop\School assignments\CPEN 211\lab6\datapath.v
+Z24 FC:\Users\Shirley Qi\Desktop\School assignments\CPEN 211\lab6\datapath.v
+L0 1
+R6
+r1
+!s85 0
+31
+R14
+Z25 !s107 C:\Users\Shirley Qi\Desktop\School assignments\CPEN 211\lab6\datapath.v|
+Z26 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Shirley Qi\Desktop\School assignments\CPEN 211\lab6\datapath.v|
+!i113 1
+R10
+R11
+vdatapath_tb
+R15
+!i10b 1
+!s100 XY>[^HkUEEl1VaOUbb_1a3
+IZ=7H4Wc0?PzMQN_z`YIkQ1
+R1
+R2
+w1604032993
+8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/datapath_tb.v
+FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/datapath_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/datapath_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/datapath_tb.v|
+!i113 1
+R10
+R11
+vDec38
+R15
+!i10b 1
+!s100 i6MJ`2>Oj3nl]F3NeHlDD0
+IYHTfU@aj^:4<PoH=:`6B[1
+R1
+R2
+Z27 w1603938490
+Z28 8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile.v
+Z29 FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile.v
+L0 58
+R6
+r1
+!s85 0
+31
+R16
+Z30 !s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile.v|
+Z31 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile.v|
+!i113 1
+R10
+R11
+n@dec38
+vinput_iface
+R12
+!i10b 1
+!s100 cI]j=hC?HTJJ3jIgio0>f3
+II6CE^K:8>VLVZD7AfW3Wf3
+R1
+R2
+Z32 w1603669012
+Z33 8C:/Users/Shirley Qi/Downloads/lab6_top.v
+Z34 FC:/Users/Shirley Qi/Downloads/lab6_top.v
+L0 68
+R6
+r1
+!s85 0
+31
+R14
+Z35 !s107 C:/Users/Shirley Qi/Downloads/lab6_top.v|
+Z36 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Downloads/lab6_top.v|
+!i113 1
+R10
+R11
+vinstructionDecoder
+R12
+!i10b 1
+!s100 =;V0gjE]lJ[j@feDB12:[1
+I`H0ih=?ZmeCARZ:^YLQjD0
+R1
+R2
+R17
+R18
+R19
+L0 137
+R6
+r1
+!s85 0
+31
+R14
+R20
+R21
+!i113 1
+R10
+R11
+ninstruction@decoder
+vlab6_check
+R15
+!i10b 1
+!s100 R]O^GWCndlF_MMIaJ:<WJ2
+I7hjJOF[BOWmY5OJkfOAIT3
+R1
+R2
+w1603963075
+8C:/Users/Shirley Qi/Downloads/lab6_autograder_check.v
+FC:/Users/Shirley Qi/Downloads/lab6_autograder_check.v
+L0 11
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Shirley Qi/Downloads/lab6_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Downloads/lab6_autograder_check.v|
+!i113 1
+R10
+R11
+vlab6_top
+R12
+!i10b 1
+!s100 HnMnR^0_7RC1<B7BMA51`0
+I7AUQ0b;JS4c?A8bKgPFl`1
+R1
+R2
+R32
+R33
+R34
+L0 32
+R6
+r1
+!s85 0
+31
+R14
+R35
+R36
+!i113 1
+R10
+R11
+vMux
+R12
+!i10b 1
+!s100 Ldb=bf>j0WS^hVPIN=LY:2
+IHonYN:@[aNz1S4hMCBR6;2
+R1
+R2
+R22
+R23
+R24
+L0 80
+R6
+r1
+!s85 0
+31
+R14
+R25
+R26
+!i113 1
+R10
+R11
+n@mux
+vMuxcpu
+R12
+!i10b 1
+!s100 ]Z?>RdG[BIhK5B=Dk^e1G2
+IJ2^gezH6?kanTAES_CRK^0
+R1
+R2
+R17
+R18
+R19
+L0 166
+R6
+r1
+!s85 0
+31
+R14
+R20
+R21
+!i113 1
+R10
+R11
+n@muxcpu
+vMuxDataInput
+R12
+!i10b 1
+!s100 W_LA;igl;ALK8zBfNmcX@0
+I9W6NRi9j_c:Pi_I1:[k5I3
+R1
+R2
+R22
+R23
+R24
+L0 91
+R6
+r1
+!s85 0
+31
+R14
+R25
+R26
+!i113 1
+R10
+R11
+n@mux@data@input
+vregfile
+R15
+!i10b 1
+!s100 2RQgOfOik6`WZghIMJCic2
+IfH]mCJZ6aHgeUkFh7a5PV0
+R1
+R2
+R27
+R28
+R29
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+R30
+R31
+!i113 1
+R10
+R11
+vregfile_tb
+R15
+!i10b 1
+!s100 8z6fUkVfCHC;TkZFMXQo33
+Iz;9iDhS2alklAalAleWB41
+R1
+R2
+w1604012738
+8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile_tb.v
+FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/regfile_tb.v|
+!i113 1
+R10
+R11
+vshifter
+R15
+!i10b 1
+!s100 5G8_MaIm0jZ?2K265M2oB3
+I0SIc^L3WBkNa[DLCMj0Ao1
+R1
+R2
+w1603938506
+8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter.v
+FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter.v
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter.v|
+!i113 1
+R10
+R11
+vshifter_tb
+R15
+!i10b 1
+!s100 l=[75APNU;Lei:?e]=^Y82
+Ii`BkeIL^=UMY4FfXTbW[Q3
+R1
+R2
+w1604033350
+8C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter_tb.v
+FC:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Shirley Qi/Desktop/School assignments/CPEN 211/lab6/shifter_tb.v|
+!i113 1
+R10
+R11
+vsseg
+R12
+!i10b 1
+!s100 ijmD4JfKJ=?91E>aX5d>]2
+I?lDm:BQ^jbCd4P=>;M4l32
+R1
+R2
+R32
+R33
+R34
+L0 96
+R6
+r1
+!s85 0
+31
+R14
+R35
+R36
+!i113 1
+R10
+R11
+vvDFF
+R12
+!i10b 1
+!s100 cYi1U1`Gha]F?>a5zRH6>3
+IZ^i0F_55`:[LAzEAQWYDe0
+R1
+R2
+R32
+R33
+R34
+L0 79
+R6
+r1
+!s85 0
+31
+R14
+R35
+R36
+!i113 1
+R10
+R11
+nv@d@f@f
+vvdFF
+R12
+!i10b 1
+!s100 V1==2>78Y[Mj14ZkH^[Ed1
+IG01<O:Zm]nRIF@6BhfV5B2
+R1
+R2
+R22
+R23
+R24
+L0 62
+R6
+r1
+!s85 0
+31
+R14
+R25
+R26
+!i113 1
+R10
+R11
+nvd@f@f

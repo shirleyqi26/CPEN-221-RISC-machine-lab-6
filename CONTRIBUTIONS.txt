@@ -1,0 +1,15 @@
+Partner 1
+- changed alu.v
+- created wave_alu.do
+- created alu.v testbench
+- debugged alu_v and cpu.v
+- checked with autograder
+- made adjustments in datapath.v
+
+Partner 2
+- coded cpu.v
+- debugged cpu.v
+- created cpu_tb.v
+- created wave_cpu.v
+- checked with autograder
+- created quartus file
